@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HY12P03C2
+D P-MOSFET transistor, source/gate/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
+$CMP MIC1555
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MIC1555-57-IttyBitty-RC-Timer-Oscillator-DS20005730B.pdf
+$ENDCMP
+#
+#End Doc Library
